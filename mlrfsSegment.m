@@ -17,7 +17,6 @@ toc
 
 I0 = Image;
 I = double(imresize(I0,rfModel.resizeFactor));
-I = double(I);
 I = I/max(max(I));
 
 % layer 1
