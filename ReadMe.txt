@@ -15,9 +15,9 @@ See m-files for parameters to set, and their meaning.
 ----------
 
 Reference:
-	Becker C, Ali K, Knott G, Fua P.
-	Learning context cues for synapse segmentation.
-	IEEE Trans Med Imaging. 2013 Oct;32(10):1864-77.
+    Becker C, Ali K, Knott G, Fua P.
+    Learning context cues for synapse segmentation.
+    IEEE Trans Med Imaging. 2013 Oct;32(10):1864-77.
 
 ----------
 
